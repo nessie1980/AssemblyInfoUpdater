@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("AssemblyInfoUpdater")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Allows to increase the version in the AssemblyInfo.cs")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AssemblyInfoUpdater")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright ©  nessie1980 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("dbcf664d-09ed-4a8f-915b-4501c826b0ee")]
+[assembly: Guid("07a25350-ddf2-4d67-a122-de61aaf61ffc")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
